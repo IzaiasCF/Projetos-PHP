@@ -1,0 +1,9 @@
+{
+  "editor.autoIndentOnPaste": true,
+  "workbench.tree.renderIndentGuides": "always",
+  "editor.autoIndent": "full",
+
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "git.ignoreLimitWarning": true
+}
